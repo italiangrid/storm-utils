@@ -17,7 +17,7 @@ storm-get-space-aliases.sh [-u <db-username>] [-p <db-password>]
 Example:
 
 ```
-$ sh storm-get-space-tokens.sh -u storm -p storm
+$ sh storm-get-space-aliases.sh -u storm -p storm
 DTEAM_TOKEN
 TAPE_TOKEN
 TESTVO_TOKEN
